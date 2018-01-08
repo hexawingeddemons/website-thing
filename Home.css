@@ -1,0 +1,30 @@
+* {
+  outline: 1px solid black;
+}
+.navigation li {
+  display:inline-block;
+  padding: 5px 30px;
+
+}
+.navigation a {
+  padding: 5px 15px;
+  font-size: 18px;
+  font-family: 'Anton';
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ada9a1;
+}
+.navigation a:hover{
+  color: #fffa00;
+}
+#title
+{margin: 0 auto;
+font-size: 65px;
+font-family: 'Joti One';
+background-image: url("./mmmyiss.png");
+background-size: cover;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
